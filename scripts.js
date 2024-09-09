@@ -1,32 +1,4 @@
 onload = function() {
-    /*const mealImg = document.querySelectorAll(".prod-list__img");
-    const mealImgTab = document.querySelectorAll(".prod-list__img-tab");
-    const mealImgMob = document.querySelectorAll(".prod-list__img-mob");
-    const addCart = document.querySelectorAll(".prod-list__cart-button");
-    const quant = document.querySelectorAll(".prod-list__quant-button");
-    const category = document.querySelectorAll(".prod-list__category");
-    const name = document.querySelectorAll(".prod-list__name");
-    const price = document.querySelectorAll(".prod-list__price-num");
-    const count = document.querySelector(".prod-list__cart-count");
-    const total = document.querySelector(".prod-list__total-price");
-    const totalWrap = document.querySelector(".prod-list__total-wrap");
-    const confirmWrap = document.querySelector(".prod-list__confirm-wrap");
-    const cart = document.querySelector(".prod-list__cart");
-    const cartHalf = document.querySelector(".prod-list__cart-half");
-    const confirmButton = document.querySelector(".prod-list__confirm");
-    const cartImage = document.querySelector(".prod-list__cart-image");
-    const note = document.querySelector(".prod-list__items-note");
-    const cartHeader = document.querySelector(".prod-list__cart-header");
-    const prodIncrease = document.querySelectorAll(".prod-list__increase");
-    const prodDecrease = document.querySelectorAll(".prod-list__decrease");
-    const prodInner = document.querySelector(".prod-list__prod-inner");
-    const listItem = document.querySelectorAll(".prod-list__item-list");
-    const listName = document.querySelectorAll(".prod-list__item-h3");
-    const listPrice = document.querySelectorAll(".prod-list__item-price-number");
-    const listQuant = document.querySelectorAll(".prod-list__item-quant");
-    const listTotal = document.querySelectorAll(".prod-list__item-price-total");
-    const removeItem = document.querySelectorAll(".prod-list__remove-item");*/
-
     const tester = document.querySelector(".prod-list__head-h1");
     const thumb = document.querySelector(".prod-list__thumbnail");
 
